@@ -12,7 +12,7 @@ import java.util.Random;
  */
 public class PickLargestStone {
 
-    public static final int TOTAL_STONE_NUM = 4;
+    public static final int TOTAL_STONE_NUM = 200;
     public static final int ALLOWED_PICK_NUM = 3;
 
     /**
